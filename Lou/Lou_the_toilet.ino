@@ -33,6 +33,7 @@
 #define PIXEL_COUNT   1
 #define PIXEL_TYPE    NEO_GRB + NEO_KHZ800
 
+//Initial servo position for toilet lid, almost fully upright
 byte servo_pos = 10;
 byte prev_pos = 10;
 byte pos;
