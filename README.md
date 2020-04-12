@@ -7,6 +7,10 @@ Powered by Arduino and using Adafruit's IO service (https://io.adafruit.com/), L
 
 More project details: https://hackaday.io/project/170829-lou-the-toilet
 
+![Lou the Toilet - full model](https://github.com/MakerThornhill/Lou-the-Toilet/blob/master/Images/Lou_full-model_500.JPG "Lou the Toilet - full model")
+
+
+
 
 ## The Project
 **Lou the Toilet** is a 3D printed miniature toilet that uses an [Adafruit ItsyBitsy 32u4 5V](https://www.adafruit.com/product/3677), a miniature servo, and a neopixel to indicate the status of the bathroom with a lifting and closing of it's lid and a coloured glow. An ESP32 breakout board (Adafruit AirLift – ESP32 WiFi Co-Processor) lets Lou connect to the internet and the Adafruit IO service to get updates about the bathroom's availability.
