@@ -7,7 +7,7 @@ Powered by Arduino and using Adafruit's IO service (https://io.adafruit.com/), L
 
 More project details: https://hackaday.io/project/170829-lou-the-toilet
 
-![Lou the Toilet - full model](https://github.com/MakerThornhill/Lou-the-Toilet/blob/master/Images/Lou_full-model_500.JPG "Lou the Toilet - full model")
+![Lou the Toilet - full model](https://github.com/MakerThornhill/Lou-the-Toilet/blob/master/Images/Lou_full-model_gif_low.gif "Lou the Toilet - full model")
 
 
 
