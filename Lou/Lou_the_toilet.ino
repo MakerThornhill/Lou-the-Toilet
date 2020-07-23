@@ -7,7 +7,7 @@
   and the Bathroom status feed to indicate whether the bathroom is occupied
   or not. 
 
-  Board:    Adafruit Trinket Pro 5v // Adafruit ItsyBitsy 32u4 5v
+  Board:    Adafruit ItsyBitsy 32u4 5v
   Airlift:  Adafruit AirLift – ESP32 WiFi Co-Processor Breakout Board (https://www.adafruit.com/product/4201)
 
   Other:    RadioShack Digital Micro servo
@@ -26,10 +26,8 @@
 #include <Servo.h>
 
 //Pins
-#define SERVO_PIN     9
-#define BUTTON_PIN    //Going to come back to this
-
-#define PIXEL_PIN     6
+#define SERVO_PIN     6
+#define PIXEL_PIN     8
 #define PIXEL_COUNT   1
 #define PIXEL_TYPE    NEO_GRB + NEO_KHZ800
 
