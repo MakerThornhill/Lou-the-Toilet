@@ -5,7 +5,7 @@ Equipped with a servo, a neopixel, and a ESP32 breakout board, Lou the Toilet gl
 
 Powered by Arduino and using Adafruit's IO service (https://io.adafruit.com/), Lou uses a separate internet-connected microcontroller, a magnetic door switch, and a light sensor to determine whether the bathroom is free and clear!
 
-More project details: https://hackaday.io/project/170829-lou-the-toilet
+More project details: https://hackaday.io/project/170829-lou-the-toilet-indicator
 
 ![Lou the Toilet - full model](https://github.com/MakerThornhill/Lou-the-Toilet/blob/master/Images/Lou_full-model_gif_low.gif "Lou the Toilet - full model")
 
@@ -33,4 +33,4 @@ Lou and the Occupancy Dector use Arduino and the [Arduino Adafruit IO library](h
 ## 3D Model & Print files
 Lou is based on a [GrabCad toilet model](https://grabcad.com/library/gustavsberg-artic-4300-1) by [Jari Ikonen](https://grabcad.com/jari.ikonen-2). I edited the design in Fusion 360 to fit the electronics and house the stop sign when the lid is closed.
 
-Other parts, including the stop sign and case for the Occupancy Detector were designed by me. Print files and settings coming soon!
+Other parts, including the stop sign and case for the Occupancy Detector were designed by me. You can find print files within the 3D_Print_files folder!
